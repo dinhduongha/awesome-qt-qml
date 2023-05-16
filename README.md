@@ -8,6 +8,7 @@ Pull requests of new projects/apps/libraries are welcome :)
     - [Apple iOS](#apple-ios)
     - [Async](#async)
     - [Binding](#binding)
+    - [Blockchain](#blockchain)
     - [Compression](#compression)
     - [Cryptography](#cryptography)
     - [Database](#database)
@@ -71,6 +72,19 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [lablqml](https://github.com/Kakadu/lablqml) ![stars](https://img.shields.io/github/stars/Kakadu/lablqml?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Kakadu/lablqml?style=flat-square)- Let's write QML/QtQuick GUI's for OCaml and Reason.
 * [pythonqt](http://pythonqt.sourceforge.net) - A library for embedding Python into your application.
 
+## Blockchain
+* [Bitcoin GUI](https://github.com/bitcoin-core/gui-qml) ![stars](https://img.shields.io/github/stars/bitcoin-core/gui-qml?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/bitcoin-core/gui-qml?style=flat-square)- QML Cross Platform Utility Library.
+* [QtEtherscan](https://github.com/ivan-odinets/QtEtherscan) ![stars](https://img.shields.io/github/stars/ivan-odinets/QtEtherscan?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ivan-odinets/QtEtherscan?style=flat-square)- Qt library for the Etherscan API.
+* [EtherWall](https://github.com/almindor/etherwall) ![stars](https://img.shields.io/github/stars/almindor/etherwall?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/almindor/etherwall?style=flat-square)- Ethereum QT5 Wallet.
+* [Web3Qml](https://github.com/saman-pasha/Web3Qml) ![stars](https://img.shields.io/github/stars/saman-pasha/Web3Qml?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/saman-pasha/Web3Qml?style=flat-square)- Web3 for Qml makes compatible web3js dist for using in Qt Qml projects.
+* [StellarQtSDK](https://github.com/bnogalm/StellarQtSDK) ![stars](https://img.shields.io/github/stars/bnogalm/StellarQtSDK?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/bnogalm/StellarQtSDK?style=flat-square)- QML Cross Platform Utility Library.
+* [Monero](https://github.com/monero-project/monero-gui) ![stars](https://img.shields.io/github/stars/monero-project/monero-gui?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/monero-project/monero-gui?style=flat-square)- QML Cross Platform Utility Library.
+* [CellFrame](https://github.com/demlabs-cellframe/cellframe-dashboard) ![stars](https://img.shields.io/github/stars/demlabs-cellframe/cellframe-dashboard?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/demlabs-cellframe/cellframe-dashboard?style=flat-square)- QML Cross Platform Utility Library.
+* [Trading-Platform](https://github.com/Bohdan17-bit/Trading-Platform) ![stars](https://img.shields.io/github/stars/Bohdan17-bit/Trading-Platform?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Bohdan17-bit/Trading-Platform?style=flat-square)- Trading-Platform.
+* [KopiTrade](https://github.com/kastravec/kopitrade) ![stars](https://img.shields.io/github/stars/kastravec/kopitrade?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/kastravec/kopitrade?style=flat-square)- Explore and track stocks, see charts and information based on the IEX service.
+* [QtTrader](https://github.com/abhikalitra/qttrader) ![stars](https://img.shields.io/github/stars/abhikalitra/qttrader?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/abhikalitra/qttrader?style=flat-square)- This project was forked from qtstalker (http://qtstalker.sourceforge.net/) 2013-01-10.
+* [QtBitcoinTrader](https://github.com/JulyIghor/QtBitcoinTrader) ![stars](https://img.shields.io/github/stars/JulyIghor/QtBitcoinTrader?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/JulyIghor/QtBitcoinTrader?style=flat-square)- Qt Bitcoin Trader: Secure multi crypto exchange trading client.
+
 ## Compression
 * [KArchive](https://projects.kde.org/projects/frameworks/karchive) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice.
 
@@ -84,6 +98,8 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [qtleveldb](https://github.com/paulovap/qtleveldb) ![stars](https://img.shields.io/github/stars/paulovap/qtleveldb?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/paulovap/qtleveldb?style=flat-square)- Qt/QML wrapper for Google's LevelDB.
 * [sqlite-editor-qtqml](https://github.com/ndesai/sqlite-editor-qtqml) ![stars](https://img.shields.io/github/stars/ndesai/sqlite-editor-qtqml?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ndesai/sqlite-editor-qtqml?style=flat-square)- A SQLite Editor written in Qt+QML.
 * [Nut](https://github.com/HamedMasafi/Nut) ![stars](https://img.shields.io/github/stars/HamedMasafi/Nut?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/HamedMasafi/Nut?style=flat-square)- Advanced, Powerful and easy to use ORM for Qt5
+* [EasyQtSql](https://github.com/kramolnic/EasyQtSql) ![stars](https://img.shields.io/github/stars/kramolnic/EasyQtSql?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/kramolnic/EasyQtSql?style=flat-square)- Advanced, Powerful and easy to use ORM for Qt5.
+* [QXlsx](https://github.com/QtExcel/QXlsx) ![stars](https://img.shields.io/github/stars/QtExcel/QXlsx?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/QtExcel/QXlsx?style=flat-square)- QXlsx is excel file(*.xlsx) reader/writer library.
 
 ## Development
 * [QHot](https://github.com/patrickelectric/qhot) ![stars](https://img.shields.io/github/stars/patrickelectric/qhot?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/patrickelectric/qhot?style=flat-square)- Hot reload of nested QML projects.
@@ -214,7 +230,8 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [QMarkdownTextEdit](https://github.com/pbek/qmarkdowntextedit) ![stars](https://img.shields.io/github/stars/pbek/qmarkdowntextedit?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/pbek/qmarkdowntextedit?style=flat-square)- A C++ Qt QPlainTextEdit widget with markdown highlighting support and some other extras.
 * [QSourceHighlite](https://github.com/Waqar144/QSourceHighlite) ![stars](https://img.shields.io/github/stars/Waqar144/QSourceHighlite?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Waqar144/QSourceHighlite?style=flat-square)- A lightweight source code/syntax highlighter written in Qt C++.
 * [QmlTreeViewExample](https://github.com/ArtifeksNN/QmlTreeViewExample) ![stars](https://img.shields.io/github/stars/ArtifeksNN/QmlTreeViewExample?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ArtifeksNN/QmlTreeViewExample?style=flat-square)- Here is an example of how a tree might look in QML.
-
+* [googlemaps](https://github.com/vladest/googlemaps) ![stars](https://img.shields.io/github/stars/vladest/googlemaps?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/vladest/googlemaps?style=flat-square)- QtLocation plugin for Google maps tile API.
+* [googlemaps](https://github.com/vladest/googlemaps) ![stars](https://img.shields.io/github/stars/vladest/googlemaps?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/vladest/googlemaps?style=flat-square)- QtLocation plugin for Google maps tile API.
 
 ## Multimedia
 * [QtAv](https://github.com/wang-bin/QtAV) ![stars](https://img.shields.io/github/stars/wang-bin/QtAV?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/wang-bin/QtAV?style=flat-square)- A multimedia playback framework based on Qt and FFmpeg to write a player easily.
@@ -246,9 +263,6 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [qtrest](https://github.com/qtrest/qtrest) ![stars](https://img.shields.io/github/stars/qtrest/qtrest?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/qtrest/qtrest?style=flat-square)- a small and simple REST API client for any Qt/QML application.
 * [QtProtobuf](https://github.com/semlanik/qtprotobuf) ![stars](https://img.shields.io/github/stars/semlanik/qtprotobuf?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/semlanik/qtprotobuf?style=flat-square)- gRPC and Protobuf generator and bindings for Qt framework
 * [QtTelegramBot](https://github.com/ivan-odinets/QtTelegramBot) ![stars](https://img.shields.io/github/stars/ivan-odinets/QtTelegramBot?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ivan-odinets/QtTelegramBot?style=flat-square)- Qt5 library for the Telegram Bot API.
-* [QtEtherscan](https://github.com/ivan-odinets/QtEtherscan) ![stars](https://img.shields.io/github/stars/ivan-odinets/QtEtherscan?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ivan-odinets/QtEtherscan?style=flat-square)- Qt library for the Etherscan API.
-* [EtherWall](https://github.com/almindor/etherwall) ![stars](https://img.shields.io/github/stars/almindor/etherwall?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/almindor/etherwall?style=flat-square)- Ethereum QT5 Wallet.
-* [Web3Qml](https://github.com/saman-pasha/Web3Qml) ![stars](https://img.shields.io/github/stars/saman-pasha/Web3Qml?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/saman-pasha/Web3Qml?style=flat-square)- Web3 for Qml makes compatible web3js dist for using in Qt Qml projects.
 
 ## Package Manager
 * [qpm](http://www.qpm.io/) - A package manager for Qt ([source](https://github.com/Cutehacks/qpm)).
@@ -268,7 +282,6 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [GATutorial-QML](https://github.com/lasconic/GATutorial-QML) ![stars](https://img.shields.io/github/stars/lasconic/GATutorial-QML?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/lasconic/GATutorial-QML?style=flat-square)- A simple integration of Google Analytics with Qt Quick for iOS and Android.
 * [QtAdMob](https://github.com/yevgeniy-logachev/QtAdMob) ![stars](https://img.shields.io/github/stars/yevgeniy-logachev/QtAdMob?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/yevgeniy-logachev/QtAdMob?style=flat-square)- QtAdMob is a C++ lib for Qt with QML support, which allows to show ads from AdMob on Android and iOS platforms.
 * [Kirigami](https://techbase.kde.org/Kirigami) - lightweight user interface framework for mobile and convergent applications.
-* [StellarQtSDK](https://github.com/bnogalm/StellarQtSDK) ![stars](https://img.shields.io/github/stars/bnogalm/StellarQtSDK?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/bnogalm/StellarQtSDK?style=flat-square)- QML Cross Platform Utility Library.
 
 ## Styling
 * [fluid](https://github.com/lirios/fluid) ![stars](https://img.shields.io/github/stars/lirios/fluid?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/lirios/fluid?style=flat-square)- Fluid is a collection of cross-platform QtQuick components for building fluid and dynamic applications.
@@ -282,6 +295,8 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [aqt-stylesheets](https://github.com/Ableton/aqt-stylesheets) ![stars](https://img.shields.io/github/stars/Ableton/aqt-stylesheets?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Ableton/aqt-stylesheets?style=flat-square)- StylesSheets is a library for Qt/QML that allows you to apply CSS stylesheets to QML applications.
 * [FluentUI](https://github.com/zhuzichu520/FluentUI) ![stars](https://img.shields.io/github/stars/zhuzichu520/FluentUI?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/zhuzichu520/FluentUI?style=flat-square)- FluentUI for QML - A fluent design component library for Qt QML.
 * [TaoQuick](https://github.com/jaredtao/TaoQuick) ![stars](https://img.shields.io/github/stars/jaredtao/TaoQuick?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/jaredtao/TaoQuick?style=flat-square)- TaoQuick QtQuick/qml component library and demo.
+* [Cutie QML](https://github.com/cutie-shell/qml-module-cutie) ![stars](https://img.shields.io/github/stars/cutie-shell/qml-module-cutie?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/cutie-shell/qml-module-cutie?style=flat-square)- A QML module to provide functionality specific to Cutie.
+* [Neumorphism](https://github.com/SMR76/neumorphism) ![stars](https://img.shields.io/github/stars/SMR76/neumorphism?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/SMR76/neumorphism?style=flat-square)- QtQuick Neumorphism (soft UI) style for Qt applications.
 
 ## Templates
 * [qpm-qt-creator-project-template](https://github.com/benlau/qpm-qt-creator-project-template) ![stars](https://img.shields.io/github/stars/benlau/qpm-qt-creator-project-template?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/benlau/qpm-qt-creator-project-template?style=flat-square)- Qt Creator Project Templates with qpm.
@@ -303,6 +318,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 ## Web Frameworks
 * [Cutelyst](https://cutelyst.org/) ![stars](https://img.shields.io/github/stars/cutelyst/cutelyst?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/cutelyst/cutelyst?style=flat-square)- Cutelyst is a web framework written in C++11 and Qt, performant and inspired in the Perl Catalyst Web Framework. ([source](https://github.com/cutelyst/cutelyst))
 * [QDjango](http://qdjango.org/) ![stars](https://img.shields.io/github/stars/jlaine/qdjango?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/jlaine/qdjango?style=flat-square)- QDjango is a web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name.
+* [Tasteful Server](https://github.com/halybang/tastefulserver) ![stars](https://img.shields.io/github/stars/halybang/tastefulserver?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/halybang/tastefulserver?style=flat-square)- QDjango is a web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name.
 
 ## X11/Wayland
 * [sddm](https://github.com/sddm/sddm) ![stars](https://img.shields.io/github/stars/sddm/sddm?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/sddm/sddm?style=flat-square)- QML based X11 and Wayland display manager.
@@ -310,7 +326,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [qmlcompmgr](https://github.com/amezin/qmlcompmgr) ![stars](https://img.shields.io/github/stars/amezin/qmlcompmgr?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/amezin/qmlcompmgr?style=flat-square)- It's a simple compositing manager for X11, written using Qt Quick and QML. Not ready for production.
 
 # Learning
-* [The QML Book](http://qmlbook.github.io/) - The QML Book. ([source](https://github.com/qmlbook/qmlbook))
+* [The QML Book](http://qmlbook.github.io/) ![stars](https://img.shields.io/github/stars/qmlbook/qmlbook?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/qmlbook/qmlbook?style=flat-square)- The QML Book. ([source](https://github.com/qmlbook/qmlbook))
 * [GCompris](http://www.gcompris.net/index-en.html) - For Kids. 
 * [Ktouch](https://www.kde.org/applications/education/ktouch/) - Touch Typing Tutor.
 * [RCSE](https://github.com/Rolisteam/rcse) ![stars](https://img.shields.io/github/stars/Rolisteam/rcse?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Rolisteam/rcse?style=flat-square)- Rolisteam Character Sheet Editor: easier way to create a character sheet, rcse provides more than that. It helps learning QML: draw your page, generate code, change it, execute it, and see the result.
@@ -339,8 +355,10 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [NotepadNext](https://github.com/dail8859/NotepadNext) ![stars](https://img.shields.io/github/stars/dail8859/NotepadNext?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/dail8859/NotepadNext?style=flat-square)- A cross-platform, reimplementation of Notepad++.
 * [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) ![stars](https://img.shields.io/github/stars/sqlitebrowser/sqlitebrowser?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/sqlitebrowser/sqlitebrowser?style=flat-square)- DB Browser for SQLite.
 * [LibreCAD](https://github.com/LibreCAD/LibreCAD) ![stars](https://img.shields.io/github/stars/LibreCAD/LibreCAD?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/LibreCAD/LibreCAD?style=flat-square)- LibreCAD is a 2D CAD drawing tool based on the community edition of QCAD.
+* [LibrePCB](https://github.com/LibrePCB/LibrePCB) ![stars](https://img.shields.io/github/stars/LibrePCB/LibrePCB?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/LibrePCB/LibrePCB?style=flat-square)- LibrePCB is a free EDA suite to develop printed circuit boards on Windows, Linux and MacOS. More information and screenshots are available at librepcb.org.
 * [qgroundcontrol](https://github.com/mavlink/qgroundcontrol) ![stars](https://img.shields.io/github/stars/mavlink/qgroundcontrol?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/mavlink/qgroundcontrol?style=flat-square)- Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows).
 
 # Websites
 * [inqlude.org](https://inqlude.org) - Website that list a lot of Qt/QML projects.
 * [wiki.manjaro.org](https://wiki.manjaro.org/index.php?title=List_of_Qt_Applications) - The manjaro wiki has quie an Qt applications list.
+* [awesome-qt](https://github.com/JesseTG/awesome-qt) ![stars](https://img.shields.io/github/stars/JesseTG/awesome-qt?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/JesseTG/awesome-qt?style=flat-square)- Website that list a lot of Qt/QML projects.
